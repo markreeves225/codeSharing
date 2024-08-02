@@ -1,3 +1,4 @@
+# Code
 ```py
 import onnx_tool
 import numpy
@@ -92,6 +93,7 @@ with open('FinalWorkI_needForPartitionigAndScheduling.json', 'w') as file:
     json.dump(Data3, file, indent=4)
 ```
 
+# error msg
 ```bash
 ---------------------------------------------------------------------------
 ValueError                                Traceback (most recent call last)
